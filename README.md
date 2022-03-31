@@ -1,4 +1,4 @@
-# pokedex
+# Projeto Pokedex com vuejs
 
 Esta é uma Pokedex feita em Vue.js
 
