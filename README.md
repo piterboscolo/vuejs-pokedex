@@ -1,6 +1,6 @@
 # pokedex
 
-Esta é uma Pokedex feita em Vue.js, para o curso Formação Node.js do Guia do programador:
+Esta é uma Pokedex feita em Vue.js
 
 ## Project setup
 ```
