@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="column is-half is-offset-one-quarter">
-      <img src="./assets/guia.png">
+      <img src="">
       <hr>
       <h4 class="is-size-4">Pokedex</h4>
       <input type="text" placeholder="Buscar pokemon pelo nome" v-model="busca" class="input is-rounded">
